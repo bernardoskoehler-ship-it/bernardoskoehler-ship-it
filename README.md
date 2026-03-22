@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Bernardo
 
-<!--
-**bernardoskoehler-ship-it/bernardoskoehler-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java student focused on becoming a backend developer.
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 📚 Currently learning: Java, OOP, and backend development
+- 🎯 Goal: Become a professional developer
+- 💻 Building projects to improve my skills every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Java
+- Git & GitHub
+
+## 📈 Current focus
+- Object-Oriented Programming
+- Clean code and best practices
+
+## 📫 Contact
+- Email: bernardosKoehler@gmail.com
