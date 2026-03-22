@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bernardo
+# 👋 Hi, I'm Bernardo S. Koehler
 
 I'm a Java student focused on becoming a backend developer.
 
