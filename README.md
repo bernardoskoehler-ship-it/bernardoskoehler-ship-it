@@ -17,4 +17,3 @@ I'm a Java student focused on becoming a backend developer.
 
 ## 📫 Contact
 - Email: bernardosKoehler@gmail.com
-
