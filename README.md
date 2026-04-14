@@ -43,4 +43,4 @@ This GitHub profile is where I document my progress, share projects, and build m
 
 ## Contact
 
-- Email: your@email.com
+- Email: bernardoskoehler@email.com
