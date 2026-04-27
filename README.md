@@ -32,7 +32,7 @@ A library system project built to practice class modeling, validations, lists, a
 - [x] Programming fundamentals
 - [x] Basic Java
 - [x] Object-Oriented Programming
-- [ ] Data structures
+- [x] Data structures
 - [ ] Databases
 - [ ] CRUD applications
 - [ ] Spring Boot
