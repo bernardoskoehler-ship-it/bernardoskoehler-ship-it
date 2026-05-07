@@ -44,8 +44,3 @@ This GitHub profile is where I document my progress, share projects, and build m
 ## Contact
 
 - Email: bernardoskoehler@email.com
-
-
-## 🐍 Snake Eating My Contributions
-
-![snake gif](https://github.com/bernardoskoehler-ship-it/bernardoskoehler-ship-it/blob/output/github-contribution-grid-snake.svg)
