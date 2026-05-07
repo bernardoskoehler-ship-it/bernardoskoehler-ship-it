@@ -44,3 +44,20 @@ This GitHub profile is where I document my progress, share projects, and build m
 ## Contact
 
 - Email: bernardoskoehler@email.com
+
+## 🐍 Contributions Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bernardoskoehler-ship-it/bernardoskoehler-ship-it/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bernardoskoehler-ship-it/bernardoskoehler-ship-it/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/bernardoskoehler-ship-it/bernardoskoehler-ship-it/output/github-contribution-grid-snake.svg"
+  />
+</picture>
