@@ -33,8 +33,8 @@ A library system project built to practice class modeling, validations, lists, a
 - [x] Basic Java
 - [x] Object-Oriented Programming
 - [x] Data structures
-- [ ] Databases
-- [ ] CRUD applications
+- [x] Databases
+- [x] CRUD applications
 - [ ] Spring Boot
 
 ## About this GitHub
