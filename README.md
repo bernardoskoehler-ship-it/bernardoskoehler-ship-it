@@ -35,7 +35,7 @@ A library system project built to practice class modeling, validations, lists, a
 - [x] Data structures
 - [x] Databases
 - [x] CRUD applications
-- [ ] Spring Boot
+- [x] Spring Boot
 
 ## About this GitHub
 
